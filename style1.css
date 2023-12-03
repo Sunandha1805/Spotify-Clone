@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Open+Sans:wght@300&family=Roboto&family=Roboto+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDMincho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&family=Black+Ops+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&family=Bitter:wght@600&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: bisque;
+}
+#navbar{
+    height: 40px;
+    background-color: white;
+    /* padding-left: 800px; */
+    /* padding-top: 20px; */
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 25px;
+    text-shadow: 2px 5px 5px gray;
+    font-family: 'Bitter', serif;
+}
+#logo{
+    margin-right: 700px;
+}
+#heading{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: 'Black Han Sans', sans-serif;
+    font-weight: 100;
+    text-shadow: 2px 4px 4px gray;
+    font-size: 57px;
+}
+#content{
+    width: 430px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-family: 'BIZ UDMincho', serif;
+}
+button{
+    background-color: greenyellow;
+    margin-top: 80px;
+    margin-left: 110px;
+    border-radius: 15px;
+    width: 150px;
+    height: 40px;
+    font-family: 'Black Ops One', sans-serif;
+}
+aside{
+    float: right;
+    margin-right: 450px;
+}
+.invite{
+    margin-top: 30px;
+    font-family: 'Black Han Sans', sans-serif;
+    text-shadow: 2px 4px 4px gray;
+    font-weight: 10px;
+    font-size: 15px;
+}
+#i1{
+    margin-left: 30px;
+}
+#i2{
+    margin-left: 50px;
+}
+#i3{
+    margin-left: 90px;
+}
+#para{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: 'Birthstone', sans-serif;
+    width: 400px;
+}
+#images{
+    border-top: 25px solid;
+    border-right: 15px solid;
+    border-bottom: 0px solid;
+    border-left: 5px solid;
+    margin-top: 30px ;
+    margin-left: 50px ;
+    margin-bottom:50px;
+    background-color: black;
+}
+.text{
+    position: absolute;
+    left: 100px;
+    top: 895px;
+    background-color: none;
+    font-size: 70px;
+    color: rgba(94, 238, 42, 0.3);
+    -webkit-text-stroke: 2px black;
+}
+.music{
+    margin-left: 60px;
+    margin-bottom: 100px;
+}
+
+
